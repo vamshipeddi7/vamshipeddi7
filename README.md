@@ -4,7 +4,7 @@
 💻 Passionate about Java, Python, and Data Structures  
 🔬 Exploring Machine Learning and Full Stack Development  
 📈 Preparing for product-based companies with a focus on DSA and real-world projects  
-📄 [View My Resume](https://drive.google.com/your-resume-link) ← update this link
+📄 [View My Resume](https://drive.google.com/file/d/150iate-5lu3ezggufxkgeqt8HoopGQKe/view?usp=drive_link) 
 
 ---
 
