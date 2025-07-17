@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Vamshi 👋
 
-<!--
-**vamshipeddi7/vamshipeddi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech student in AI & ML  
+💻 Passionate about Java, Python, and Data Structures  
+🔬 Exploring Machine Learning and Full Stack Development  
+📈 Preparing for product-based companies with a focus on DSA and real-world projects  
+📄 [View My Resume](https://drive.google.com/your-resume-link) ← update this link
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Languages:** Java, Python, C, R
+- **Web:** HTML, CSS, JavaScript
+- **Tools:** Git, MySQL, OpenCV, Scikit-learn
+- **Concepts:** OOP, DSA, REST APIs
+
+## 📫 Let's Connect
+- ✉️ [vamshipeddi7@gmail.com](mailto:vamshipeddi7@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/vamshipeddi)  
+- 💻 [GitHub](https://github.com/vamshipeddi7)
